@@ -8,11 +8,15 @@ This is a library for basic C functions.
 
 In ```/src``` run 
 
-- ```make``` 
+```bash
+  make
+``` 
 
 To build with bonus
 
-- ```make bonus``` 
+```bash
+  make bonus
+``` 
 
 
 
